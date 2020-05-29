@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://enternalsong.github.io/blog/about/index.html</loc>
+    
+    <lastmod>2020-05-29T07:41:23.810Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://enternalsong.github.io/blog/2020/03/08/hexo-create/</loc>
+    
+    <lastmod>2020-05-29T07:40:39.394Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://enternalsong.github.io/blog/categories/index.html</loc>
+    
+    <lastmod>2020-05-29T07:39:43.860Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://enternalsong.github.io/blog/tags/index-1.html</loc>
+    
+    <lastmod>2020-05-29T07:15:05.453Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://enternalsong.github.io/blog/tags/index.html</loc>
     
     <lastmod>2020-03-16T08:39:55.658Z</lastmod>
@@ -12,13 +40,6 @@
     <loc>https://enternalsong.github.io/blog/archives/index.html</loc>
     
     <lastmod>2020-03-16T08:39:42.970Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://enternalsong.github.io/blog/2020/03/08/hexo-create/</loc>
-    
-    <lastmod>2020-03-07T16:33:48.579Z</lastmod>
     
   </url>
   
